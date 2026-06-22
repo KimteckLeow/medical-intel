@@ -1,0 +1,1 @@
+This repository is created to enable stake holders (public or members of Malaysian Chinese Medical Association (MCMA)) to verify status of anyone whether he or she is listed officially in the register of MCMA. 
